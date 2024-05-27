@@ -1,0 +1,17 @@
+Duplicate image pairs:
+These files are identical: /Users/user/Desktop/adsiz/icons/facebook kopyası 3.svg /Users/user/Desktop/adsiz/icons/facebook kopyası 2.svg
+These files are identical: /Users/user/Desktop/adsiz/icons/facebook kopyası 3.svg /Users/user/Desktop/adsiz/icons/facebook kopyası.svg
+These files are identical: /Users/user/Desktop/adsiz/icons/facebook kopyası 3.svg /Users/user/Desktop/adsiz/icons/facebook.svg
+These files are identical: /Users/user/Desktop/adsiz/icons/facebook kopyası 2.svg /Users/user/Desktop/adsiz/icons/facebook kopyası.svg
+These files are identical: /Users/user/Desktop/adsiz/icons/facebook kopyası 2.svg /Users/user/Desktop/adsiz/icons/facebook.svg
+These files are identical: /Users/user/Desktop/adsiz/icons/facebook kopyası.svg /Users/user/Desktop/adsiz/icons/facebook.svg
+These files are identical: /Users/user/Desktop/adsiz/icons/error-red.svg /Users/user/Desktop/adsiz/icons/error-red kopyası 2.svg
+These files are identical: /Users/user/Desktop/adsiz/icons/error-red.svg /Users/user/Desktop/adsiz/icons/error-red kopyası 5.svg
+These files are identical: /Users/user/Desktop/adsiz/icons/error-red.svg /Users/user/Desktop/adsiz/icons/error-red kopyası 7.svg
+These files are identical: /Users/user/Desktop/adsiz/icons/error-red.svg /Users/user/Desktop/adsiz/icons/error-red kopyası.svg
+These files are identical: /Users/user/Desktop/adsiz/icons/error-red kopyası 2.svg /Users/user/Desktop/adsiz/icons/error-red kopyası 5.svg
+These files are identical: /Users/user/Desktop/adsiz/icons/error-red kopyası 2.svg /Users/user/Desktop/adsiz/icons/error-red kopyası 7.svg
+These files are identical: /Users/user/Desktop/adsiz/icons/error-red kopyası 2.svg /Users/user/Desktop/adsiz/icons/error-red kopyası.svg
+These files are identical: /Users/user/Desktop/adsiz/icons/error-red kopyası 5.svg /Users/user/Desktop/adsiz/icons/error-red kopyası 7.svg
+These files are identical: /Users/user/Desktop/adsiz/icons/error-red kopyası 5.svg /Users/user/Desktop/adsiz/icons/error-red kopyası.svg
+These files are identical: /Users/user/Desktop/adsiz/icons/error-red kopyası 7.svg /Users/user/Desktop/adsiz/icons/error-red kopyası.svg
