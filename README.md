@@ -1,35 +1,50 @@
-SVG Duplicate Finder
-Bu Python scripti, belirli bir klasördeki SVG dosyalarını tarar ve benzerliklerine göre çiftler halinde çoğaltır. Bu, büyük ölçekteki görsel varlık kütüphanelerini yönetirken yararlı olabilir.
+# Project Setup Guide
 
-Kullanım
-Bu scripti kullanmak için, aşağıdaki adımları izleyin:
+This guide will walk you through the steps to clone and run the project on your computer.
 
-Bu repository'yi klonlayın veya indirin.
-Terminali açın ve scriptin bulunduğu dizine gidin.
-python index.py komutunu çalıştırın.
-Script, mevcut çalışma dizinindeki 'icons' adlı bir klasördeki SVG dosyalarını tarar. Bu klasör adını ve konumunu ihtiyaçlarınıza göre değiştirebilirsiniz.
+## Prerequisites
 
-Çalışma Prensibi
-Script, aşağıdaki adımları izler:
+Before you begin, ensure you have the following installed on your machine:
+- Python (3.6 or newer)
+- pip (Python package installer)
 
-Belirtilen klasördeki tüm dosyaları listeler.
-Her dosya için, dosyanın bir SVG dosyası olup olmadığını kontrol eder.
-SVG dosyasını bir PNG dosyasına dönüştürür.
-Dönüştürülen PNG dosyasını, klasördeki diğer tüm SVG dosyalarıyla karşılaştırır.
-İki görüntü arasındaki benzerlik skorunu hesaplar.
-Eğer iki görüntü tamamen aynıysa (benzerlik skoru 1), bu çifti bir çoğaltma olarak kaydeder.
-Çıktı
-Script, bulunan tüm çoğaltmaları 'duplicate_log.txt' adlı bir dosyaya yazar. Her çizgi, aynı olan iki dosyanın adını ve yolunu içerir.
+## Step 1: Clone the Repository
 
-Bağımlılıklar
-Bu scriptin çalışması için aşağıdaki Python kütüphanelerinin kurulu olması gerekmektedir:
+First, clone the repository to your local machine. Open a terminal and run the following command:
 
-cairosvg
-os
-cv2
-skimage
-Bu kütüphaneleri pip kullanarak kurabilirsiniz:
+```bash
+git clone <repository-url>
+Replace <repository-url> with the actual URL of the repository.
 
-image
-Notlar
-Bu script, büyük ölçekteki görsel varlık kütüphanelerini yönetirken yararlı olabilir. Ancak, çok büyük kütüphanelerle çalışırken performans sorunları yaşayabilirsiniz. Bu durumda, scripti daha küçük alt kümeler üzerinde çalıştırmayı düşünün.
+Step 2: Navigate to the Project Directory
+Change into the project directory:
+
+cd <project-name>
+Replace <project-name> with the name of the folder that was created when you cloned the repository.
+
+Step 3: Create a Virtual Environment
+It's recommended to create a virtual environment for Python projects. Run the following command to create one:
+
+python3 -m venv venv
+Activate the virtual environment:
+
+On macOS/Linux:
+
+source venv/bin/activate
+On Windows:
+
+.\venv\Scripts\activate
+Step 4: Install Dependencies
+Install the project dependencies using pip:
+
+pip install -r requirements.txt
+Step 5: Run the Project
+Now that all dependencies are installed, you can run the project. For example, if the entry point is index.py, you would run:
+
+bash
+Copy code
+python index.py
+Additional Notes
+If the project requires environment variables, make sure to set them up as needed.
+For projects with a database, ensure you have the database setup instructions followed.
+Congratulations! You should now have the project running on your local machine.
